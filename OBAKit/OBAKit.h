@@ -120,7 +120,6 @@ FOUNDATION_EXPORT const unsigned char OBAKitVersionString[];
 #import <OBAKit/NSObject+OBADescription.h>
 #import <OBAKit/NSString+OBAAdditions.h>
 #import <OBAKit/NSURLQueryItem+OBAAdditions.h>
-#import <OBAKit/UIFont+OBAAdditions.h>
 #import <OBAKit/UILabel+OBAAdditions.h>
 
 // 3rd Party Components
