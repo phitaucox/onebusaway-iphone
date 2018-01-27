@@ -25,6 +25,7 @@
 
     if (self) {
         _firstRenderPass = YES;
+        self.textAlignment = NSTextAlignmentCenter;
     }
 
     return self;
